@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00Demo", "00Demo\00Demo.csproj", "{B8DA2A5C-42F2-498E-8940-E25B7003BA3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Demo", "01Demo\01Demo.csproj", "{13566A3C-D57F-4634-8780-5B38EDC490B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02Demo", "02Demo\02Demo.csproj", "{4BE1D6BD-7E9E-417E-9B56-8C2324B45C3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalciLib", "CalciLib\CalciLib.csproj", "{29EE2053-BCB0-46DF-98A4-E67E0B7BB414}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8DA2A5C-42F2-498E-8940-E25B7003BA3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8DA2A5C-42F2-498E-8940-E25B7003BA3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8DA2A5C-42F2-498E-8940-E25B7003BA3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8DA2A5C-42F2-498E-8940-E25B7003BA3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13566A3C-D57F-4634-8780-5B38EDC490B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13566A3C-D57F-4634-8780-5B38EDC490B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13566A3C-D57F-4634-8780-5B38EDC490B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13566A3C-D57F-4634-8780-5B38EDC490B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BE1D6BD-7E9E-417E-9B56-8C2324B45C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE1D6BD-7E9E-417E-9B56-8C2324B45C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE1D6BD-7E9E-417E-9B56-8C2324B45C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE1D6BD-7E9E-417E-9B56-8C2324B45C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29EE2053-BCB0-46DF-98A4-E67E0B7BB414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29EE2053-BCB0-46DF-98A4-E67E0B7BB414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29EE2053-BCB0-46DF-98A4-E67E0B7BB414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29EE2053-BCB0-46DF-98A4-E67E0B7BB414}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5D7CDAB-A8F9-4335-8122-4DA24E79D986}
+	EndGlobalSection
+EndGlobal
