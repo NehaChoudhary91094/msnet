@@ -1,0 +1,12 @@
+# MyMathLib
+1. Create MyMathLib Class Library Project
+2. Add 2 Namespaces BasicNS, TempratureNS
+3. Create Class BasicCalculator in BasicNS
+4. Create a basic four function (add, sub, mul, div) calculator. Take two numbers 
+5. Create Class TempratureConverter in TempratureNS
+6. Create a two-functions (FarenheitToCelcius, CelciusToFarenheit) for conversion.
+7. Create Console Application with name MyCalci 
+8. Add reference MyMathLib
+9. Make a menu driven program, which will continue to execute according to user choice. Use do-while loop.
+10. Commit Code on git
+
