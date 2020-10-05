@@ -1,0 +1,19 @@
+Q1.
+Create Console Application
+Write a structure Book with following members:
+	string title; bool outofstock; string author;
+	int isbn; char index; double price;
+	Provide following functionality:
+	Default constructor(?)
+	Parameterized constructor
+	Get and Set methods
+	AcceptDetails() method to accept data from console.
+	PrintDetails() method to print data to console.
+
+Check the default access specifier for members of structure.
+Keep all data members private and all member functions public.
+Upload solution on git
+
+Q2. Write difference between Class and Structure?
+Create text file and write answer in this file. Upload this file on git
+
