@@ -1,0 +1,14 @@
+----
+400027,Mumbai,Maharashtra
+411052,Pune,Maharashtra
+800005,Patna,Bihar
+600013,Chennai,Tamilnadu
+----
+1,mayur,400027
+2,nitin,800005
+----
+101,1,100
+102,1,200
+103,1,300
+104,2,150
+105,2,150
