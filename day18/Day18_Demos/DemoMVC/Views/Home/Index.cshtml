@@ -1,0 +1,32 @@
+﻿
+@{
+    Layout = "~/Views/Shared/MainMasterLayOut.cshtml";
+}
+
+<a href="/Home/Create" class="btn btn-success" style="margin-left: 10px;">Create a New Record</a>
+<div class="table-responsive">
+    <table class="table">
+        @* Model here is List<Emp> *@
+
+        <tr>
+            <th>No</th>
+            <th>Name</th>
+            <th>Address</th>
+        </tr>
+        @foreach (var emp in Model)
+        {
+            <tr>
+                <td> @emp.No </td>
+                <td> @emp.Name </td>
+                <td> @emp.Address </td>
+                <td>
+                    <a class="btn btn-warning" href="/Home/Edit/@emp.No">Edit</a>
+                </td>
+
+                <td>
+                    <a class="btn btn-danger" href="/Home/Delete/@emp.No">Delete</a>
+                </td>
+            </tr>
+        }
+    </table>
+</div>

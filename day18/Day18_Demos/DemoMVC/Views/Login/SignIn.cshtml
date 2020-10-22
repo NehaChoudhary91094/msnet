@@ -1,0 +1,44 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>SignIn</title>
+</head>
+
+<body>
+
+    <form action="/Login/SignIn" method="post">
+        <table class="table table-hover">
+            <tbody>
+                <tr>
+                    <td>User Name</td>
+                    <td>
+                        <input type="text" name="UserName">
+                    </td>
+                </tr>
+                <tr>
+                    <td>Password</td>
+                    <td>
+                        <input type="Password" name="Password">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="Submit" name="btnLogin" value="Sign In">
+                    </td>
+                </tr>
+
+            </tbody>
+        </table>
+        <p style="color:red">@ViewBag.ErrorMessage</p>
+    </form>
+
+</body>
+
+</html>

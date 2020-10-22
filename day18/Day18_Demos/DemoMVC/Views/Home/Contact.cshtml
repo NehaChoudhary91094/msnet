@@ -1,0 +1,52 @@
+﻿
+@{
+    Layout = "~/Views/Shared/MainMasterLayOut.cshtml";
+}
+    <form action="@ViewBag.action" method="@ViewBag.method">
+        <br /><br /><br /><br /><br />
+        <h1>Enter Your Detail with Query Here</h1>
+        <div class="table-responsive">
+
+            <table class="table">
+                <tr>
+                    <td><label for="Name" style="margin-left: 10px;">Name</label></td>
+                    <td>
+                        <input type="text" style="margin-left: 10px; width:300px" class="form-control" id="Name" name="Name">
+                    </td>
+
+                </tr>
+
+                <tr>
+                    <td><label for="EMail" style="margin-left: 10px;">EMail</label></td>
+                    <td>
+                        <input type="EMail" style="margin-left: 10px; width:300px" required class="form-control" id="EMail" name="EMail">
+                    </td>
+                </tr>
+                <tr>
+                    <td><label for="Phone" style="margin-left: 10px;">Phone</label></td>
+                    <td>
+                        <input type="text" style="margin-left: 10px; width:300px" class="form-control" id="Phone" name="Phone">
+                    </td>
+                </tr>
+
+                <tr>
+                    <td><label for="Query" style="margin-left: 10px;">Query</label></td>
+                    <td>
+                        <textarea style="margin-left: 10px; width:300px" class="form-control" id="Query" name="Query"></textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" style="text-align: center;">
+                        <input type="submit" style="margin-left: 10px; width:300px" class="btn btn-primary" id="btnContact" name="btnContact" value="Submit Query">
+                    </td>
+                </tr>
+
+            </table>
+
+        </div>
+
+        <p style="text-align:center; color: orange">
+            @ViewBag.message
+        </p>
+
+    </form>
