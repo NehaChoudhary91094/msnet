@@ -1,0 +1,88 @@
+Log: at 21-10-2020 12:58:34: Details: /Home/Index is about to execute
+Log: at 21-10-2020 12:58:34: Details: /Home/Index executed!!
+Log: at 21-10-2020 12:58:34: Details: UI Processing is about to begin
+Log: at 21-10-2020 12:58:34: Details: UI Processing is Done
+Log: at 21-10-2020 13:02:51: Details: /Home/About is about to execute
+Log: at 21-10-2020 13:02:51: Details: /Home/About executed!!
+Log: at 21-10-2020 13:02:51: Details: UI Processing is about to begin
+Log: at 21-10-2020 13:02:54: Details: /Home/Index is about to execute
+Log: at 21-10-2020 13:02:57: Details: /Home/Index executed!!
+Log: at 21-10-2020 13:02:57: Details: UI Processing is about to begin
+Log: at 21-10-2020 13:02:58: Details: UI Processing is Done
+Log: at 21-10-2020 13:02:58: Details: UI Processing is Done
+Log: at 21-10-2020 13:03:04: Details: /Home/Contact is about to execute
+Log: at 21-10-2020 13:03:04: Details: /Home/Contact executed!!
+Log: at 21-10-2020 13:03:04: Details: UI Processing is about to begin
+Log: at 21-10-2020 13:03:04: Details: UI Processing is Done
+Log: at 21-10-2020 13:03:06: Details: /Home/About is about to execute
+Log: at 21-10-2020 13:03:06: Details: /Home/About executed!!
+Log: at 21-10-2020 13:03:06: Details: UI Processing is about to begin
+Log: at 21-10-2020 13:03:06: Details: UI Processing is Done
+Log: at 21-10-2020 13:03:08: Details: /Home/Index is about to execute
+Log: at 21-10-2020 13:03:08: Details: /Home/Index executed!!
+Log: at 21-10-2020 13:03:08: Details: UI Processing is about to begin
+Log: at 21-10-2020 13:03:08: Details: UI Processing is Done
+Log: at 21-10-2020 13:03:11: Details: /Login/Signout is about to execute
+Log: at 21-10-2020 13:03:11: Details: /Login/Signout executed!!
+Log: at 21-10-2020 13:03:11: Details: UI Processing is about to begin
+Log: at 21-10-2020 13:03:11: Details: UI Processing is Done
+Log: at 21-10-2020 13:03:11: Details: /Login/SignIn is about to execute
+Log: at 21-10-2020 13:03:11: Details: /Login/SignIn executed!!
+Log: at 21-10-2020 13:03:11: Details: UI Processing is about to begin
+Log: at 21-10-2020 13:03:14: Details: UI Processing is Done
+Log: at 21-10-2020 13:03:23: Details: /Login/SignIn is about to execute
+Log: at 21-10-2020 13:03:23: Details: /Login/SignIn executed!!
+Log: at 21-10-2020 13:03:23: Details: UI Processing is about to begin
+Log: at 21-10-2020 13:03:23: Details: UI Processing is Done
+Log: at 21-10-2020 13:03:24: Details: /Home/Index is about to execute
+Log: at 21-10-2020 13:03:24: Details: /Home/Index executed!!
+Log: at 21-10-2020 13:03:24: Details: UI Processing is about to begin
+Log: at 21-10-2020 13:03:24: Details: UI Processing is Done
+Log: at 21-10-2020 13:03:28: Details: /Home/Delete is about to execute
+Log: at 21-10-2020 13:03:28: Details: /Home/Delete executed!!
+Log: at 21-10-2020 13:03:28: Details: UI Processing is about to begin
+Log: at 21-10-2020 13:03:28: Details: UI Processing is Done
+Log: at 21-10-2020 13:03:28: Details: /Home/Index is about to execute
+Log: at 21-10-2020 13:03:28: Details: /Home/Index executed!!
+Log: at 21-10-2020 13:03:28: Details: UI Processing is about to begin
+Log: at 21-10-2020 13:03:29: Details: UI Processing is Done
+Log: at 21-10-2020 13:06:19: Details: /Home/About is about to execute
+Log: at 21-10-2020 13:06:19: Details: /Home/About executed!!
+Log: at 21-10-2020 13:06:19: Details: UI Processing is about to begin
+Log: at 21-10-2020 13:06:20: Details: UI Processing is Done
+Log: at 21-10-2020 13:07:50: Details: /Home/About is about to execute
+Log: at 21-10-2020 13:09:23: Details: /Home/About executed!!
+Log: at 21-10-2020 13:09:23: Details: UI Processing is about to begin
+Log: at 21-10-2020 13:09:24: Details: UI Processing is Done
+Log: at 21-10-2020 13:28:28: Details: /Home/Index is about to execute
+Log: at 21-10-2020 13:28:34: Details: /Home/Index executed!!
+Log: at 21-10-2020 13:28:34: Details: UI Processing is about to begin
+Log: at 21-10-2020 13:28:40: Details: UI Processing is Done
+Log: at 21-10-2020 13:28:44: Details: /Home/Create is about to execute
+Log: at 21-10-2020 13:28:44: Details: /Home/Create executed!!
+Log: at 21-10-2020 13:28:44: Details: UI Processing is about to begin
+Log: at 21-10-2020 13:28:44: Details: UI Processing is Done
+Log: at 21-10-2020 13:28:50: Details: /Home/Create is about to execute
+Log: at 21-10-2020 13:28:50: Details: /Home/Create executed!!
+Log: at 21-10-2020 13:31:12: Details: /Login/SignIn is about to execute
+Log: at 21-10-2020 13:31:12: Details: /Login/SignIn executed!!
+Log: at 21-10-2020 13:31:12: Details: UI Processing is about to begin
+Log: at 21-10-2020 13:31:14: Details: UI Processing is Done
+Log: at 21-10-2020 13:31:21: Details: /Login/SignIn is about to execute
+Log: at 21-10-2020 13:31:22: Details: /Login/SignIn executed!!
+Log: at 21-10-2020 13:31:22: Details: UI Processing is about to begin
+Log: at 21-10-2020 13:31:22: Details: UI Processing is Done
+Log: at 21-10-2020 13:31:22: Details: /Home/Index is about to execute
+Log: at 21-10-2020 13:31:22: Details: /Home/Index executed!!
+Log: at 21-10-2020 13:31:22: Details: UI Processing is about to begin
+Log: at 21-10-2020 13:31:25: Details: UI Processing is Done
+Log: at 21-10-2020 13:31:28: Details: /Home/Create is about to execute
+Log: at 21-10-2020 13:31:28: Details: /Home/Create executed!!
+Log: at 21-10-2020 13:31:28: Details: UI Processing is about to begin
+Log: at 21-10-2020 13:31:28: Details: UI Processing is Done
+Log: at 21-10-2020 13:31:35: Details: /Home/Create is about to execute
+Log: at 21-10-2020 13:31:35: Details: /Home/Create executed!!
+Log: at 21-10-2020 13:31:41: Details: /Home/Index is about to execute
+Log: at 21-10-2020 13:31:41: Details: /Home/Index executed!!
+Log: at 21-10-2020 13:31:41: Details: UI Processing is about to begin
+Log: at 21-10-2020 13:31:41: Details: UI Processing is Done

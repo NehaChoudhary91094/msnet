@@ -1,0 +1,75 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    <title>Display</title>
+    <script>
+
+
+
+        function GetData() {
+
+        debugger;
+
+        var xhr = new XMLHttpRequest();
+        xhr.open("GET", "/Test/Index/2");
+        xhr.send();
+        xhr.onreadystatechange = function () {
+        debugger;
+        if (xhr.readyState == 4)  //0,1,2,3,4
+        {
+        var result = JSON.parse(xhr.responseText);
+        var container = document.getElementById("containerUL");
+        container.innerHTML = '';
+
+        result.map((item) => {
+        let liElement = "<li>" + item.No + " | " + item.Name + " | " + item.Address + " | " + "</li>";
+        container.innerHTML = container.innerHTML + liElement;
+        });
+        }
+        }
+
+        //$.ajax({
+        //url: "/Test/Index/2",
+        //contentType: "application/json",
+        //type: "GET",
+        //success: function (result) {
+        //debugger;
+        //$("#containerUL").html('');
+
+        //result.map((item) => {
+        //let liElement = "<li>" + item.No + " | " + item.Name + " | " + item.Address + " | " + "</li>";
+        //$("#containerUL").append(liElement);
+        //});
+        //debugger;
+        //},
+        //error: function (error) {
+        //debugger;
+        //alert("Something is not right here!")
+        //}
+        //});
+        }
+
+        window.setInterval(GetData, 5000);
+
+    </script>
+</head>
+
+<body>
+    <h2>Welcome to View - which is using AJAX! </h2>
+
+    <ul id="containerUL">
+    </ul>
+
+    <br>
+    @* <input type="button" value="Get JSON Data Using AJAX Call" onclick="GetData()"> *@
+</body>
+
+</html>
